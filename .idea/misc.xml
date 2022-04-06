@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.40923076923076923" />
+        <entry key="app/src/main/res/drawable/border_textview.xml" value="0.232" />
+        <entry key="app/src/main/res/drawable/ic_baseline_keyboard_arrow_down_24.xml" value="0.249" />
+        <entry key="app/src/main/res/drawable/replace_notifications.xml" value="0.1595" />
+        <entry key="app/src/main/res/drawable/tv_color_1.xml" value="0.232" />
+        <entry key="app/src/main/res/drawable/tv_color_2.xml" value="0.232" />
+        <entry key="app/src/main/res/drawable/tv_color_3.xml" value="0.232" />
+        <entry key="app/src/main/res/drawable/tv_color_4.xml" value="0.232" />
+        <entry key="app/src/main/res/drawable/tv_color_5.xml" value="0.232" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.38958333333333334" />
+        <entry key="app/src/main/res/layout/activity_web.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_business.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_entertainment.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_general.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_health.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.3194035847981771" />
+        <entry key="app/src/main/res/layout/fragment_science.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_sports.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_technology.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/item_menu.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/item_news.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_other_news.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/item_recent_posts.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/item_slider.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/menu/nav_menu.xml" value="0.3167683919270833" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
